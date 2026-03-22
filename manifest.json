@@ -1,0 +1,16 @@
+{
+  "name": "同谋 TOMO — DMC会员系统",
+  "short_name": "同谋TOMO",
+  "description": "共醸数字会员系统 · 以酒为货币 · 以NFT为人生账户",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0B1120",
+  "theme_color": "#0B1120",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ],
+  "categories": ["lifestyle", "food"],
+  "lang": "zh-CN"
+}
